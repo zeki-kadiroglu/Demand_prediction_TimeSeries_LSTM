@@ -11,4 +11,19 @@
 
 
 dataset:
-![alt text](http://https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/df.png/to/img.png)
+![alt text](https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/df.png?raw=true)
+
+cnt distribution:
+![alt text](https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/cnt.png?raw=true)
+
+change over the time :
+![alt text](https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/changeoverthetime.png?raw=true)
+
+loss function result after bidirectionalLSTM algorith:
+![alt text](https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/loss.png?raw=true)
+
+Time Series plot for actual and prediction:
+![alt text](https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/actual-pred.png?raw=true)
+
+our pattern after deep learning algoritm:
+![alt text](https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/pattern.png?raw=true)
