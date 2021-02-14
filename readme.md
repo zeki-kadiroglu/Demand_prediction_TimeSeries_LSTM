@@ -19,7 +19,7 @@ cnt distribution:
 change over the time :
 ![alt text](https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/changeoverthetime.png?raw=true)
 
-loss function result after bidirectionalLSTM algorith:
+loss function result after bidirectionalLSTM algorithm:
 ![alt text](https://github.com/zeki07k/Demand_prediction_TimeSeries_LSTM/blob/main/images/loss.png?raw=true)
 
 Time Series plot for actual and prediction:
